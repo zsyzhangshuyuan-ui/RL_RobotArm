@@ -3,4 +3,4 @@ Reinforcement Learning Algorithms in a Pick &amp; Place System for Autonomous Ro
 
 The final code is in this file 👉 RobotArm/Unity_RobotArm/Assets/RL_PickPlace/Scripts/RobotArmJointAgent.cs
 
-Unity editor version：6000.0.47f1
+Unity editor version: 6000.0.47f1
